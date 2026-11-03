@@ -1,0 +1,11 @@
+# CLion
+.idea/
+cmake-build-*/
+
+# macOS
+.DS_Store
+
+# Compiled files
+*.o
+*.a
+*.dylib
